@@ -40,14 +40,6 @@ A C language-based desktop application designed to manage inventory and billing 
 
 ---
 
-Screenshots
-Add screenshots of:
-
-Main Menu
-
-Item List View
-
-Billing Screen
 
 👨‍💻 Developed By
 B. Sreeja (2203A51467)
